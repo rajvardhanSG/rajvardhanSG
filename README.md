@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Agentic AI & Backend Architecture | India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rajvardhanSG&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <br/>
