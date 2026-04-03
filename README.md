@@ -1,16 +1,124 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi there, I'm Rajvardhan Patil 👋</h1>
+<h3 align="center">AI Engineer | Agentic AI & Backend Architecture | India 🇮🇳</h3>
 
-<!--
-**rajvardhanSG/rajvardhanSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GIF aligned beside About Me -->
+<img align="right" height="270" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+### 🧑‍💻 About Me
+
+- 🤖 **AI Engineer**, Pune
+- 🧠 Building production-grade **Agentic AI** systems with **LangGraph** & **GraphRAG**
+- ⚡ Achieved **95% latency reduction** via multi-threaded remote execution pipelines
+- 📉 Reduced **MTTR by 50%** using Service Knowledge Graphs for Root Cause Analysis
+- 🎓 B.Tech. CSE (Data Science) | CGPA: **9.23** | KIT's College of Engineering, Kolhapur
+- 🏆 National Finalist @ **NEC 2023, IIT Bombay**
+- ☁️ Preparing for **AWS ML Associate** & **Azure AI** certifications
+- 💡 Passionate about **AgriTech** and solving real-world challenges with AI
+- 📍 Pune, Maharashtra, India
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML Frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4088?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 **Root Cause Analysis AI Agent** | Agentic system with LangGraph DeepAgent + GraphRAG, reducing MTTR by 50% | LangGraph, GraphRAG, FastAPI, PostgreSQL |
+| 📊 **AI Report Generator** | Automated email-to-report pipeline using AWS Textract + LangChain SQL Toolkit | AWS Textract, LangChain, PostgreSQL |
+| 🎥 **YouTube RAG System** | Compliance query system ingesting videos & transcripts, boosting efficiency by 70% | LangChain, RAG, ChromaDB |
+| 🔬 **Kidney Histopathology Grading** | SE-ResNet with Squeeze-and-Excitation blocks, 20% accuracy improvement | TensorFlow, Keras, CNN |
+| 🏏 **IPL Win Probability Predictor** | Real-time ML app using live scores, wickets, overs & stadium factors | scikit-learn, Streamlit, pandas |
+
+---
+
+### 📊 GitHub Stats
+
+> ⚡ Stats are auto-generated via GitHub Actions workflow — see setup instructions below.
+
+<!-- Stats cards generated by GitHub Actions — replace images after workflow runs once -->
+<p align="center">
+  <img src="./github-stats/overview.svg" alt="GitHub Stats Overview" />
+  <img src="./github-stats/languages.svg" alt="Top Languages" />
+</p>
+
+---
+
+### 🏅 Achievements & Certifications
+
+- 🥇 **Merit Scholar (TFWS)** — Tuition Fee Waiver by Govt. of Maharashtra | Top 3 in CS department
+- 🏛️ **National Finalist, NEC 2023 (IIT Bombay)** — Represented E-Cell KIT in the National Entrepreneurship Challenge
+- 🏭 **Industry Project Selection** — Handpicked by HOD for sponsored project with Menon & Menon Ltd
+- ☁️ **AWS Technical Essentials** — Certified
+- 🔐 **Cisco Introduction to Cybersecurity** — Certified
+
+---
+
+### 🚀 Currently Learning
+
+- 🧠 Advanced **System Design** patterns for distributed & AI-native architectures
+- ☁️ **AWS for AI native Backend** certification
+- 📚 **DSA and OOPS** — grinding daily!
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajvardhan-patil-747a0422a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajvardhanSG)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajvardhanSG/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajvardhan2273@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Build things that matter. Stay curious. Keep shipping."</i> 🚀
+</p>
