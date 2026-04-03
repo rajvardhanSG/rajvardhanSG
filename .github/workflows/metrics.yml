@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # Runs daily at midnight UTC
-  workflow_dispatch:           # Manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: ["main", "master"]
 
@@ -14,16 +14,38 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      # Card 1: Overview — Commits, PRs, Issues, Stars, Contributed to
+      - name: General Stats
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stats/overview.svg
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_display: columns
+          config_timezone: Asia/Kolkata
 
-      - uses: lowlighter/metrics@latest
+      # Card 2: Top Languages
+      - name: Languages
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stats/languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          config_timezone: Asia/Kolkata
+
+      # Card 3: Contribution Streak / Activity Calendar
+      - name: Activity Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-stats/activity.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
